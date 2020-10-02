@@ -11,3 +11,9 @@ The objectives of this project are:
 - creating a functional editor;
 - implementation of running and compilation requirements;
 - settings specific to the Linux operating system;
+
+# Steps taken so far:
+- creating a window in GTK #;
+- creating a menu with File Run;
+- creating the editing area;
+
