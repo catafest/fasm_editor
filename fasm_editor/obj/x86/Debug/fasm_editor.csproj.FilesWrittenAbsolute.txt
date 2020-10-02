@@ -1,0 +1,6 @@
+/home/mythcat/ProjectsCSharp/fasm_editor/fasm_editor/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mythcat/ProjectsCSharp/fasm_editor/fasm_editor/obj/x86/Debug/fasm_editor.gtk-gui.gui.stetic
+/home/mythcat/ProjectsCSharp/fasm_editor/fasm_editor/bin/Debug/fasm_editor.exe.mdb
+/home/mythcat/ProjectsCSharp/fasm_editor/fasm_editor/bin/Debug/fasm_editor.exe
+/home/mythcat/ProjectsCSharp/fasm_editor/fasm_editor/obj/x86/Debug/fasm_editor.exe
+/home/mythcat/ProjectsCSharp/fasm_editor/fasm_editor/obj/x86/Debug/fasm_editor.exe.mdb
