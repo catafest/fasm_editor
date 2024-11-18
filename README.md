@@ -3,6 +3,7 @@ FASM Editor for fasm programming language in Linux O.S.
 
 # Updates and changes 
 - 16 novemver 2024 - no update : lack of time resource, I tested local with changes for running NET 9.0 and works.
+- 18 november 2024 - update only the Program.cs file no time to set local repo and works well with feature: open,save file.  
   
 # Intro:
 Today, October 2, 2020, I launched this simple project for FASM language users who use the Linux operating system.
